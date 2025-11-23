@@ -1,6 +1,6 @@
-# 🌍 GiordanoTranslator
+# 🌍 h7Translator
 
-**GiordanoTranslator** è un'applicazione web di traduzione multilingua sviluppata con HTML, CSS e JavaScript.  
+**h7Translator** è un'applicazione web di traduzione multilingua sviluppata con HTML, CSS e JavaScript.  
 Supporta 9 lingue principali: inglese, italiano, spagnolo, francese, tedesco, giapponese, cinese, arabo e russo.
 
 🧠 Progetto ideato per imparare a integrare un'interfaccia frontend con un servizio di traduzione automatica tramite API.
